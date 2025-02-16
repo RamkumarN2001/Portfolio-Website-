@@ -1,0 +1,57 @@
+.Head_Name {
+    background-color: black;
+    color: white;
+    padding :10px;
+    height: 150px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.Head_Contact {
+    border: solid chocolate;
+    background-color: chocolate;
+    display: inline;
+
+}
+body{
+    margin: 20px;
+    font-family: "Young Serif", serif;
+}
+.Head_intrest{
+width: 150px;
+height: 200px;
+background-color: mediumorchid;
+border-radius: 8px;
+display: inline-block;
+vertical-align: top;
+}
+.Head_Myproject{
+    vertical-align: top;
+    width: 600px;
+    height: 200px;
+    background-color: orange;
+    border-radius: 8px;
+    display: inline-block;
+
+}
+.Head_Contact_Social{
+    background-color: black;
+    color: white;
+    display: block;
+    height: 50px;
+    padding: 3px;
+    margin-top: 10px;
+}
+.Head_Contact1 {
+    border: solid chocolate;
+    background-color: chocolate;
+    display: inline;
+    cursor: pointer;
+}
+
+.Submit_Button {
+    border: solid chocolate;
+    background-color: chocolate;
+    display: inline;
+}
